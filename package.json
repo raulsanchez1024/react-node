@@ -1,0 +1,17 @@
+{
+  "name": "react-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
